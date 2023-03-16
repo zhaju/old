@@ -1,18 +1,12 @@
 ---
-title: Colophon
+title: About Me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: 
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
-
-If you have a question about him or else, just send a letter to him.
-
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+Hey, I’m Julian, a 11th grade student at the University of Toronto Schools (UTS). Welcome to my personal website.
+The question I get asked the most often which I never have an answer to is “what do you want to do in the future”.  To be honest, I don’t really know. I thought I was going to be a math and CS kid for most of my life, but the more I learn, the more I realize my passion lies in some intersection between the sciences and the humanities. Designing this website has made that decision a bit earlier though - web dev is pretty arduous, so maybe I should just give up and become a lawyer :)
+I’ve done competitive math since grade 1, programming since grade 4, debate since grade 9, and recently took up writing which you can check out on my [blog](https://zhaju.github.io/archive/). In general, I’m just trying to better understand how the world works, whatever that may entail. I’m interested especially in the study of human intelligence, and the use of artificial intelligence to model and solve human problems. If you want to learn more about my experiences, check out my [resume]().
+In my spare time, I like to cook, box, run, and lose an embarrassing amount of games of Valorant and chess. Feel free to hit me up on my [Instagram](https://www.instagram.com/julianzhang_/) , or on Discord ``Phoenix#3305`` if you just want to talk!
