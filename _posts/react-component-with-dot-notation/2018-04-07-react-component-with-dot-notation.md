@@ -2,7 +2,7 @@
 title: Daddy Issues - An Analysis of Father Time by Kendrick Lamar
 date: 2022-05-29 23:04:00 +07:00
 tags: [javascript, react]
-description:.
+description:
 ---
 
 _“When I’m a dad, I’ll treat my kids so much better than how you treated me!”_
