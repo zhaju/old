@@ -5,6 +5,10 @@
 - title: archive
   url: /archive/
   external: false
+  
+- title: math
+  url: /math/
+  external: false
 
 - title: about
   url: /about/
