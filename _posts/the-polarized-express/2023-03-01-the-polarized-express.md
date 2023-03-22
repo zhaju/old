@@ -1,6 +1,6 @@
 ---
 title: The Polarized Express - An Analysis of Free Speech on Social Media
-date: 2022-03-01 23:04:00 +07:00
+date: 2023-03-01 23:04:00 +07:00
 tags: [essays]
 description: Dialexicon Essay Contest
 ---
