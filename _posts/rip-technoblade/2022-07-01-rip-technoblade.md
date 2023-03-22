@@ -39,7 +39,7 @@ Now, we (especially Twitter users) live in a culture where we’re discouraged f
 
 <figure>
 <img src="zhaju.github.io/_posts/rip-technoblade/t4.png" alt="techno discord">
-<figure>
+</figure>
 
  It was a mission that he, quite literally,  took to the grave.
 (sorry Techno, but I hope you would have liked that.)
