@@ -35,7 +35,7 @@ An 8-part handout which serves as an introduction to Grade 9-10 contests, includ
 7. [Trigonometry](zhaju.github.io/assets/math/contests/7. Trigonometry.pdf)
 8. [Sequences and Series](zhaju.github.io/assets/math/contests/8. Sequences_and_Series.pdf)
 
-A 16-page compendium which can be used as a study doc or crash course for all high school-level math contest:
+A 16-page compendium which can be used as a study doc or crash course for all high school-level math contests:
 
 [Big Formula Sheet](zhaju.github.io/assets/math/Big_Formula_Sheet.pdf)
 
