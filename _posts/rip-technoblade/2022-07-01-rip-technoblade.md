@@ -23,12 +23,13 @@ After the announcement of his passing, every internet celebrity took to Twitter 
 
 <figure>
 <img src="t1.png" alt="pokimane tweet">
-<figcaption>Pokimane's Tweet</figcaption>
 </figure>
 
 This user’s tweet really stuck with me though – instead of paying his respects traditionally, he simply made a joke: 
 
-<img src="zhaju.github.io/_posts/rip-technoblade/t2.png" alt="joke tweet">
+<figure>
+<img src="t2.png" alt="joke tweet">
+</figure>
 
 Now, we (especially Twitter users) live in a culture where we’re discouraged from joking about topics that may be sensitive. If we ever ask why that’s the case, the response is “that’s just the way it is”. Now, I get it – when families are mourning and want a time to be left alone, the public should be respectful of that. But clearly, that isn’t what Technoblade wanted. In classic Techno fashion, he even joked about his own decaying health and potential death, not seeing it as anything that serious to him. His fans understood it too, as they understood that all he wanted was for them to be happy and laugh.
 
