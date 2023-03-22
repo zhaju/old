@@ -1,5 +1,5 @@
 ---
-title: An Analysis of Father Time by Kendrick Lamar
+title: Daddy Issues - An Analysis of Father Time by Kendrick Lamar
 date: 2022-05-29 23:04:00 +07:00
 tags: [python, machine-learning]
 description: Cuspidor Submission 1.1
