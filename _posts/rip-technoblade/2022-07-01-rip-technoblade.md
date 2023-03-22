@@ -21,7 +21,7 @@ Technoblade was a rare occurrence. He was a man driven by a passion so strong th
 
 After the announcement of his passing, every internet celebrity took to Twitter to pay their respects, a lot of them expressing discontent for the lives that cancer had claimed so early.
 
-<img src="zhaju.github.io/_posts/rip-technoblade/t1.png" alt="pokimane tweet">
+<img src="t1.png" alt="pokimane tweet">
 
 This user’s tweet really stuck with me though – instead of paying his respects traditionally, he simply made a joke: 
 
