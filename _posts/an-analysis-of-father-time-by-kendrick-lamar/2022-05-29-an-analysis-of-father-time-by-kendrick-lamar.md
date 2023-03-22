@@ -1,10 +1,9 @@
 ---
 title: Daddy Issues - An Analysis of Father Time by Kendrick Lamar
 date: 2022-05-29 23:04:00 +07:00
-tags: [python, machine-learning]
+tags: [cuspidor]
 description: Cuspidor Submission 1.1
 ---
-
 Taken from Vol. 48, Issue 3 of my schoool publication _Cuspidor_:
 
 _“When I’m a dad, I’ll treat my kids so much better than how you treated me!”_

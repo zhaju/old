@@ -1,8 +1,8 @@
 ---
 title: Harvard Doesn’t Want You
 date: 2022-10-31 10:00:00 +07:00
-tags: [python, machine-learning]
-description: Taken from Cuspidor v49 issue 1
+tags: [cuspidor]
+description: Cuspidor Submission 2.1
 ---
 Taken from Vol. 49, Issue 1 of my schoool publication Cuspidor:
 
