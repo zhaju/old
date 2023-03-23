@@ -22,24 +22,23 @@ Technoblade was a rare occurrence. He was a man driven by a passion so strong th
 After the announcement of his passing, every internet celebrity took to Twitter to pay their respects, a lot of them expressing discontent for the lives that cancer had claimed so early.
 
 <figure>
-  <img src="t1.png" alt="pokimane tweet">
-  <figcaption>test</figcaption>
+  <img src="https://zhaju.github.io/assets/t1.png" alt="pokimane tweet">
 </figure>
 
 This user’s tweet really stuck with me though – instead of paying his respects traditionally, he simply made a joke: 
 
 <figure>
-<img src="t2.png" alt="joke tweet">
+  <img src="https://zhaju.github.io/assets/t2.png" alt="joke tweet">
 </figure>
 
 Now, we (especially Twitter users) live in a culture where we’re discouraged from joking about topics that may be sensitive. If we ever ask why that’s the case, the response is “that’s just the way it is”. Now, I get it – when families are mourning and want a time to be left alone, the public should be respectful of that. But clearly, that isn’t what Technoblade wanted. In classic Techno fashion, he even joked about his own decaying health and potential death, not seeing it as anything that serious to him. His fans understood it too, as they understood that all he wanted was for them to be happy and laugh.
 
 <figure>
-<img src="t3.png" alt="tweet response">
+  <img src="https://zhaju.github.io/assets/t3.png" alt="tweet response">
 </figure>
 
 <figure>
-<img src="t4.png" alt="techno discord">
+  <img src="https://zhaju.github.io/assets/t4.png" alt="techno discord">
 </figure>
 
 It was a mission that he, quite literally,  took to the grave.
@@ -48,7 +47,7 @@ It was a mission that he, quite literally,  took to the grave.
 It was truly heartwarming to see his community come together in such a way. It even reminded me of the comedian Gilbert Gottfried who passed away this year, but still wanted people to have a laugh in his honor.
 
 <figure>
-<img src="t5.png" alt="gilbert gottfried">
+  <img src="https://zhaju.github.io/assets/t5.png" alt="gilbert gottfried">
 </figure>
 
 They say that the best comedy comes from pain, but I would suggest that the opposite is also true: Pain is made better with good comedy. Whether it be soldiers who had their last laugh with their comrades before being deployed on a battlefield, or a creator that tried to make his fans laugh even hours before his passing, the value of humor in these circumstances should never be overlooked. In my humble opinion, that’s the way that it should be done. Taking ourselves too seriously can prevent us from enjoying the true pleasures of life, and perhaps that’s something that they had to come close to death to realize. Our time on this spinning rock is limited, so let’s at least have some fun while we’re still here.
