@@ -29,7 +29,7 @@ An 8-part handout which serves as an introduction to Grade 9-10 contests, includ
 1. [Combinatorics](zhaju.github.io/assets/math/contests/1_Combo.pdf)
 2. [Algebra](zhaju.github.io/assets/math/contests/2_Algebra.pdf)
 3. [Logarithms](zhaju.github.io/assets/math/contests/3_Logarithms.pdf)
-4. [Complex Numbers](zhaju.github.io/assets/math/contests/4_Complex Numbers.pdf)
+4. [Complex Numbers](zhaju.github.io/assets/math/contests/4_Complex_Numbers.pdf)
 5. [Number Theory](zhaju.github.io/assets/math/contests/5_Number_Theory.pdf)
 6. [Mods](zhaju.github.io/assets/math/contests/6_Mods.pdf)
 7. [Trigonometry](zhaju.github.io/assets/math/contests/7_Trigonometry.pdf)
