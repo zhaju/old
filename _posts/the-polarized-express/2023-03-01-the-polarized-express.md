@@ -17,7 +17,8 @@ Of course, there are still instances where speech can cross the line and become 
 
 (1166)
 
-Works Cited
+# Works Cited
+
 Gruzd, Anatoliy, and Philip Mai. “The State of Social Media in Canada 2020.” SSRN Electronic Journal, 2020, https://doi.org/10.2139/ssrn.3651206.
 
 Nadeem, Reem. “Most Americans Think Social Media Sites Censor Political Viewpoints.” Pew Research Center: Internet, Science & Tech, Pew Research Center, 13 May 2022, https://www.pewresearch.org/internet/2020/08/19/most-americans-think-social-media-sites-censor-political-viewpoints/.
