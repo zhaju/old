@@ -34,7 +34,8 @@ The second day was slightly smoother sailing – after another rough first round
 Nationals during the following three days were also relatively stress-free – the stakes were far lower, there were many more friends around, and we had far more time to explore the city instead of being confined to the same hotel. When we finally landed back at Pearson, our suitcases full of wrinkled dress shirts, a stuffed moose I had bought from Calgary’s airport, and the two white cowboy hats gifted to us for making the quarterfinals, I was finally able to relax.
 
 And then I remembered about the phone call. My relaxation would have to wait a bit longer.
---
+
+...
 
 I looked at the unknown caller, and quickly said a silent prayer before hitting accept.
 

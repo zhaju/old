@@ -37,7 +37,7 @@ Even if AI does surpass us in every field of human endeavor, maybe not all is lo
 
 1. McCallum, S. (2023, April 1). ChatGPT banned in Italy over privacy concerns. BBC News. Retrieved April 7, 2023, from https://www.bbc.com/news/technology-65139406 
 2. Johnson, A. (2023, January 31). Chatgpt in schools: Here's where it's banned-and how it could potentially help students. Forbes. Retrieved April 7, 2023, from https://www.forbes.com/sites/ariannajohnson/2023/01/18/chatgpt-in-schools-heres-where-its-banned-and-how-it-could-potentially-help-students/?sh=4106b4846e2c 
-3. Becken, B. (2023, January 25). Bot or not? this Canadian developed an app that weeds out ai-generated homework | CBC Radio. CBCnews. Retrieved April 7, 2023, from https://www.cbc.ca/radio/day6/ai-generated-homework-1.6725710 
+3. Becken, B. (2023, January 25). Bot or not? this Canadian developed an app that weeds out ai-generated homework. CBCnews. Retrieved April 7, 2023, from https://www.cbc.ca/radio/day6/ai-generated-homework-1.6725710 
 4. Ng, A. (2023, April 7). Yann LeCun and Andrew Ng: Why the 6-month AI pause is a bad idea. DeepLearningAI. Retrieved April 7, 2023, from https://www.youtube.com/watch?v=BY9KV8uCtj4 
 5. IB Organization, M. G. (2023, March 9). Statement from the IB about CHATGPT and artificial intelligence in assessment and Education. International Baccalaureate®. Retrieved April 7, 2023, from https://www.ibo.org/news/news-about-the-ib/statement-from-the-ib-about-chatgpt-and-artificial-intelligence-in-assessment-and-education/ 
 6. Radić, A. (2017, December 7). AlphaZero's "Immortal Zugzwang Game" against Stockfish. YouTube. Retrieved April 7, 2023, from https://www.youtube.com/watch?v=lFXJWPhDsSY 
