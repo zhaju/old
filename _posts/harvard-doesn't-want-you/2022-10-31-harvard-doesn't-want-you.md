@@ -1,5 +1,5 @@
 ---
-title: Harvard Doesn’t Want You - on the College Application Process
+title: Harvard Doesn’t Want You
 date: 2022-10-31 10:00:00 +07:00
 tags: [cuspidor]
 description: Cuspidor Submission 2.1
