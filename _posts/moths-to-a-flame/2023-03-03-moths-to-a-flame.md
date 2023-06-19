@@ -4,6 +4,9 @@ date: 2023-03-03 23:04:00 +07:00
 tags: [essays]
 description: AP English Synthesis Essay
 ---
+
+*Written for my AP English Synthesiss Essay*
+
 # Abstract
 The last two decades have seen a political revolution around the Western world go largely unnoticed. Victor Orban and his far-right Fidesz Coalition have ruled Hungary with an iron fist for more than 10 years, stifling the rights of his people, suppressing the media, and funneling taxpayer funds to associates. In Poland, the right-wing Law and Justice Party under Mateusz Morawiecki was forced to shut down a disciplinary chamber for judges and engaged in similar corruption. Just last year, Giorgia Meloni was elected Prime Minister of Italy, with several academics describing her party as neo-fascist. In the US, the aftermath of Trumpism and the January 6th riots continue to derail American democracy.
 

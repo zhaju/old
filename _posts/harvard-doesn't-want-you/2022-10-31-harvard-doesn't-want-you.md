@@ -4,7 +4,7 @@ date: 2022-10-31 10:00:00 +07:00
 tags: [cuspidor]
 description: Cuspidor Submission 2.1
 ---
-Taken from Vol. 49, Issue 1 of my schoool publication Cuspidor:
+*Taken from Vol. 49, Issue 1 of my schoool publication Cuspidor.*
 
 High school is quite a unique time for making friends. You have a group of people around you all the time with whom you talk with, hang out, and stress over work– school being the primary way you cultivate that sense of camaraderie.  However, there comes a time in every student’s life where they notice an unfortunate truth: Though a few deny it, most see the primary purpose of high school as getting into a good university. Unfortunately, if your goal is acceptance to an elite or international school, that means the friends you’ve made for the last 5 years are now your competition. What was once a community built on camaraderie is now an awful zero-sum game that you’re all forced to play.
 

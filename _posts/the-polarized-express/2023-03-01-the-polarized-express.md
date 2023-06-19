@@ -5,7 +5,7 @@ tags: [essays]
 description: Dialexicon Essay Contest
 ---
 
-Selected to be published in the May 2023 issue of the Dialexicon Philosophy Journal
+*Selected to be published in the May 2023 issue of the Dialexicon Philosophy Journal.*
 
 In her 1906 biography of Voltaire entitled The Friends of Voltaire, Evelyn Beatrice Hall wrote a sentence so famous it is often misattributed to the French writer himself. The phrase "I disapprove of what you say, but I will defend to the death your right to say it” perfectly summarizes the classical liberal attitude towards freedom of speech, but is becoming an increasingly unpopular opinion in a more polarized world. Section 2 of the Canadian Charter of Rights and Freedoms and the First Amendment of the United States Constitution unconditionally protect citizens' right to freedom of speech and expression, meaning it would be unlawful for the government to persecute one for their speech. However, these acts of legislation do not apply to private corporations, meaning that legally speaking, they can censor speech at their discretion. This has led to a world where large social media monopolies which form a digital town square, have become the arbiters of free and acceptable speech. Recently, billionaire Elon Musk fully acquired the social media giant Twitter in hopes of making it a haven for free speech. Within months of his purchase, Elon has fired 75% of its workforce, reinstated several controversial figures, and published a plethora of documents detailing Twitter's censorship policies throughout the last decade. Be his takeover rushed and downright organized as it may, it still serves as a step in the right direction for social media corporations to be more accepting of free speech.
 

@@ -5,7 +5,7 @@ tags: [cuspidor]
 description: Cuspidor Submission 2.2
 ---
 
-Taken from Vol. 49, Issue 2 of my schoool publication Cuspidor:
+*Taken from Vol. 49, Issue 2 of my schoool publication Cuspidor.*
 
 After the monumental launch of ChatGPT in late 2022, there has been a sea of concerns about the threat AI presents to academic integrity in schools. Italy has banned it (then unbanned it by the time this took to publish),<sup>1</sup> American school boards have blocked it,<sup>2</sup>  and our very own UTS alumni have even created ingenious technologies that detect AI writing.<sup>3</sup>  
 
