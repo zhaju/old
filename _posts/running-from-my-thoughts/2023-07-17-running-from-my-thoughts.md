@@ -1,5 +1,5 @@
 ---
-title: To Find Humor Where There Is None
+title: Running from my thoughts
 date: 2023-07-017 18:20:00 +07:00
 tags: [misc]
 description: from personal archive
@@ -28,7 +28,7 @@ I would love to say that this confrontation finally solved my problem. It didn�
 
 That’s also the reason why I’m trying to write more: having more time to think means thinking more thoughts, and a larger amount of thoughts increases the chances that one of them might be, well, good. Hopefully, I can remember more of these thoughts instead of pushing them away, and hopefully a fraction of them I’ll be able to share. For now, I’ve got to go back to watching my Valorant game. See you the next time my entertainment apps stop working.
 
-- Julian
+-Julian
 
 <figure>
   <img src="https://zhaju.github.io/assets/thoughts/begone.png/" alt="begone thought">
