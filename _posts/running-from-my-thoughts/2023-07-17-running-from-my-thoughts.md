@@ -4,6 +4,7 @@ date: 2023-07-017 18:20:00 +07:00
 tags: [misc]
 description: from personal archive
 ---
+
 I know this sounds edgy, but I hate being alone with my own thoughts.
 
 … is what I thought to myself while lying in bed sweaty, stressed, and with a stuffy nose as I tried forcing myself to sleep at 10 pm for a debate tournament in 5 hours. It’s a similar feeling to how I would stay awake the night before my birthday, Christmas, or a field trip, only with the childlike excitement replaced with adolescent dread. The negative feedback loop is impossible to escape: get stressed about the lack of sleep, fail to sleep, and stress more as a result. 
