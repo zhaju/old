@@ -1,6 +1,6 @@
 ---
 title: Running from my thoughts
-date: 2023-07-017 18:20:00 +07:00
+date: 2023-07-17 18:20:00 +07:00
 tags: [misc]
 description: from personal archive
 ---
