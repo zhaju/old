@@ -12,7 +12,8 @@ After the monumental launch of ChatGPT in late 2022, there has been a sea of con
 Unfortunately – and even though these measures are admirable in intent – none actually solve the problem at hand. New technologies will continue to enter the market, AI developers will continue dodging regulations, and of course, students will always find new ways to cheat. Even the rich and powerful have only managed to come up with half-baked, band-aid solutions to this AI takeover. Elon Musk’s recently proposed six-month pause to all AI research was met with considerable support, but I’ll let ChatGPT itself tell you how effective that’ll be:
 
 <figure>
-  <img src="/visions-of-a-post-ai-world/gpt.png" alt="gpt/">
+<img src="/visions-of-a-post-ai-world/gpt.png" alt="gpt response">
+<figcaption>GPT's witty response</figcaption>
 </figure>
 
 Maybe Elon Musk and Edward Tian are missing the point. Maybe the arrival of AI tools in the mainstream doesn’t warrant an all-encompassing ban, but a fundamental reconception of the way humans and technology coexist.<sup>4</sup> 
