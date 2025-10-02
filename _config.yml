@@ -20,8 +20,8 @@ author:
   avatar: /assets/img/Phoenix.png # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
-baseurl:
+url: "https://zhaju.github.io" #
+baseurl: /old
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
